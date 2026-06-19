@@ -1,6 +1,4 @@
-# Index.html
-'HTMLEOF'
-<!DOCTYPE html>
+# index.html
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
@@ -1303,5 +1301,5 @@ renderLoop(0);
 </script>
 </body>
 </html>
-HTMLEOF
+
 echo "Done. File size: $(wc -c < /mnt/user-data/outputs/index.html) bytes"
